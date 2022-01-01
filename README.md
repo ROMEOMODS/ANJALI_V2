@@ -26,10 +26,10 @@ Project created by <a href="https://github.com/TOXIDE-SER-444">TOXIDE-SER-444</a
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)=https://github.com/ROMEOMODS/ANJALI_V2
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIDE-SER-444/ANJALI_V2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
  
 ### The Hard Method
 ```js
